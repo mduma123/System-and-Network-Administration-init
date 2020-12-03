@@ -1,0 +1,14 @@
+//Find the external IP of 42.fr, use the following command:
+
+nslookup 42.fr 
+
+//The output of the command is:
+10.201.2.2
+10.201.2.2#53
+
+//You will also get:
+42.fr
+163.172.250.13
+42.fr
+163.172.250.12
+
