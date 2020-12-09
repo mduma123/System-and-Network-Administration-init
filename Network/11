@@ -1,8 +1,10 @@
-// Use the output of the previous command to ﬁnd the name and IP address of the device that makes the link between you (local network) and the outside world
-//The previous command was :
+#Use the output of the previous command to ﬁnd the name and IP address of the device that makes the link between you (local network) and the outside world
+#The previous command was :
 
 traceroute slash16.org
 
-name: nat-1\nip:   10.60.1.11
+#then
 
-//We know that "nat" stands for 'Network Address Translation' and hence nat1 is the device that makes the link between local network and outside world
+NAT server
+
+#We know that "nat" stands for 'Network Address Translation' and hence nat1 is the device that makes the link between local network and outside world

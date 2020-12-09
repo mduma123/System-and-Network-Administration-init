@@ -1,0 +1,5 @@
+#List all existing users on the VM
+
+#Usually we use cat /etc/passwd  to get users but to avoid extra details use
+
+awk -F':' '{print $1}' /etc/passwd

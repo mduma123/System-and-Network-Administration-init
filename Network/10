@@ -1,3 +1,5 @@
-//Identify the network devices between your computer and the slash16.org domain
+#Identify the network devices between your computer and the slash16.org domain
 
 traceroute slash16.org
+
+#Shows all devices between the MAC and slash16.org

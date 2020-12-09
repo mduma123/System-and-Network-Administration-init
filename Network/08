@@ -1,11 +1,11 @@
-// Find the provider of slash16.org
+#Find the provider of slash16.org/ the previous command from the previous question.
 
-nslookup slash16.org | grep
+nslookup slash16.org 
 
-//This command will find and get the the authoritative DNS servers along with the non-authoritative
+#This command will find and get the the authoritative DNS servers along with the non-authoritative
 
-//To get the Nameserver provider of slash16.org , use the following command:
+#To get the Nameserver provider of slash16.org , use the following command:
 
 whois slash16.org | grep "Name Server"
 
-// The provider is AWS.
+#The provider is AWS.

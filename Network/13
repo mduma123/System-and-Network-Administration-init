@@ -1,0 +1,5 @@
+#Thanks to the previous question and the reverse DNS find the name of your host
+
+dig -x (Ip got from previous answer)
+
+# you get the name of your host.

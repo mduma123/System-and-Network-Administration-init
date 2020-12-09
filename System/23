@@ -1,0 +1,11 @@
+#Explain how connect yourself as new user. (With graphic session and ssh session)
+
+#First create the new user using :
+
+sudo adduser -m "mduma"  
+
+#then
+
+sudo passwd mduma
+
+#to set new passwd then you can switch user to new account.

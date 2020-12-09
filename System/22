@@ -1,0 +1,5 @@
+#Find the command that add a new local user
+
+sudo useradd -m "mduma" or sudo adduser -m "mduma"
+
+#once user has been created them run the same command again then it will say user already exists.

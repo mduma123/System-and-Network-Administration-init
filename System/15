@@ -1,0 +1,5 @@
+#Find the command that kills the background command’s processs
+
+ps -eaf
+
+sudo kill -9 "PID"
