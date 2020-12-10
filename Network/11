@@ -5,6 +5,6 @@ traceroute slash16.org
 
 #then
 
-NAT server
+NAT-1  server
 
 #We know that "nat" stands for 'Network Address Translation' and hence nat1 is the device that makes the link between local network and outside world
